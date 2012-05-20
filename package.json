@@ -1,5 +1,5 @@
 {
-    "name": "v8-profiler",
+    "name": "v8-profiler_edp",
     "version": "3.6.2beta",
     "description": "node bindings for the v8 profiler",
     "homepage": "http://github.com/dannycoates/v8-profiler",
